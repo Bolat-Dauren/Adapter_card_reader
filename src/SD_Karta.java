@@ -1,4 +1,4 @@
-// Create a category representing an SD card
+// create a category representing an SD card
 class SD_Karta {
     // approach to study information from the SD card
     void readSD_Karta() {

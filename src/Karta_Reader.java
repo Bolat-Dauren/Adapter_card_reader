@@ -1,8 +1,8 @@
-// Create a card reader magnificence to have interaction with reminiscence playing cards
+// create a card reader magnificence to have interaction with reminiscence playing cards
 class Karta_Reader {
     private Memory_Karta memory_Karta;
 
-    // Constructor to set the memory card for use with the cardboard reader
+    // constructor to set the memory card for use with the cardboard reader
     public Karta_Reader(Memory_Karta memoryCard) {
         this.memory_Karta = memoryCard;
     }
